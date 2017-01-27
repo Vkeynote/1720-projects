@@ -46,7 +46,7 @@ phantom = 'high-120-2000'
 
 drone_adv = drone.adv_drone(autel)
 
-my_date = datetime.date(2017, 1, 16)
+my_date = datetime.date(2017, 1, 27)
 print drone.is_workday(my_date)
  
 
